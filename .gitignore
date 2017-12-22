@@ -1,0 +1,35 @@
+# Folder view configuration files
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+.Spotlight-V100
+.Trashes
+
+# Compiled Python files
+*.pyc
+
+# Compiled C++ files
+*.out
+
+# PhpStorm
+.idea
+
+# Composer
+/vendor
+
+# Npm
+/node_modules
+
+# Laravel
+Homestead.yaml
+Homestead.json
+.env
+
+
+
+
